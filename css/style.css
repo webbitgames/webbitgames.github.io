@@ -2,7 +2,7 @@
     box-sizing: border-box;
     margin: 0 auto;
     font-family: 'Stalinist One', cursive;
-    color: white;
+    color: #CDCDCD;
     font-weight: normal;
     font-size: 1vw;
 }
@@ -13,16 +13,6 @@ body {
 
 a {
     width: 16.66666666666667%;
-}
-
-.topnav a {
-    background-color: black;
-    float: left;
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 15px 15px;
-    text-decoration: none;
 }
 
 .imglogo {
