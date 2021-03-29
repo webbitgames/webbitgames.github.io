@@ -1,9 +1,9 @@
 * {
     box-sizing: border-box;
     margin: 0 auto;
-    font-family: 'IBM Plex Mono', monospace;
+    font-family: 'Roboto', sans-serif;
     color: #CDCDCD;
-    font-size: 1.25vw;
+    font-size: 1.75vw;
 }
 
 body {
@@ -19,8 +19,8 @@ a {
 }
 
 #txt {
-    padding-right: 68px;
-    padding-left: 68px;
+    padding-right: 18px;
+    padding-left: 18px;
 }
 
 .row::after {
