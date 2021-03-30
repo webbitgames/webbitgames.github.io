@@ -20,8 +20,8 @@ a {
 }
 
 #txt {
-    padding-right: 18px;
-    padding-left: 18px;
+    padding-right: 32px;
+    padding-left: 32px;
 }
 
 .row::after {
